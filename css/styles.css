@@ -80,7 +80,8 @@
 .card-info p {
   font-size: 1em;
   margin-bottom: 5px;
-  height: 190px;
+  height: 220px;
+  width: 300px;
 }
 
 .pagination {
@@ -103,7 +104,7 @@
 }
 
 .previous-page, .next-page {
-  background: #0AB1CE;
+  background: #82CD47;
   width: 80px;
   border-radius: 45px;
   cursor: pointer;
@@ -126,7 +127,7 @@
 }
 
 .active {
-  background: #0AB1CE;
+  background: #82CD47;
 }
 
 .disable {
