@@ -5,6 +5,11 @@
   font-family: 'Merriweather', serif;
 }
 
+body{
+  background-image: url("../images/bi.jpg");
+  background-size: cover;
+}
+
 .container {
   min-height: 100vh;
   display: flex;
